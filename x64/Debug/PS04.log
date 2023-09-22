@@ -1,0 +1,12 @@
+﻿  GearViewer.cpp
+F:\CMU2023-2024\24780\week4\PS04\PS04\Gear.h(52,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\week4\PS04\PS04\GearViewer.cpp(88,23): warning C4305: “参数”: 从“double”到“float”截断
+F:\CMU2023-2024\24780\week4\PS04\PS04\GearViewer.cpp(107,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\CMU2023-2024\24780\week4\PS04\PS04\GearViewer.cpp(153,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\CMU2023-2024\24780\week4\PS04\PS04\GearViewer.cpp(178,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\CMU2023-2024\24780\week4\PS04\PS04\GearViewer.cpp(261,19): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\week4\PS04\PS04\GearViewer.cpp(263,19): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\week4\PS04\PS04\GearViewer.cpp(266,31): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\week4\PS04\PS04\GearViewer.cpp(267,31): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+F:\CMU2023-2024\24780\week4\PS04\PS04\GearViewer.cpp(304,24): warning C4244: “参数”: 从“unsigned __int64”转换到“GLdouble”，可能丢失数据
+  PS04.vcxproj -> F:\CMU2023-2024\24780\week4\PS04\x64\Debug\PS04.exe
